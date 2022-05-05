@@ -6,10 +6,10 @@
 		}
 		
 		public static function get_instance(){
-			$host = "ec2-44-196-223-128.compute-1.amazonaws.com";
-			$database = "d3ggcm26rhrf20";
-			$user = "vqcrxgjddyoair";
-			$password = "91953cacf5ce8fd79a82d83cfcd880d72016a0bd69bc113b1d51052121617553";
+			$host = "ec2-18-210-64-223.compute-1.amazonaws.com";
+			$database = "d53cajnleqmdum";
+			$user = "xcaxyepmxscvsd";
+			$password = "154ea5e93ff01f67806eaf84b3aa1cc33740fb833e3b761aee06e1aaf939547b";
 
 
 			if(!isset(self::$instance)){

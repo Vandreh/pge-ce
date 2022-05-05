@@ -1,6 +1,3 @@
-//https://www.youtube.com/watch?v=TVW3tsMcGzA Criar table no heroku
-
-
 CREATE TABLE public.tb_profiles (
     id_profile SERIAL PRIMARY KEY,
     profile_name "varchar",
