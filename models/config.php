@@ -10,7 +10,7 @@
 	$project_name = "";
 
 	# Url do Caminho do servidor na rede
-	$project_index = "http://".$_SERVER['SERVER_NAME'].$project_name;
+	$project_index = "https://".$_SERVER['SERVER_NAME'].$project_name;
 	
 	# Url do caminho do servidor na raiz
 	$project_path = $_SERVER['DOCUMENT_ROOT'].$project_name;
