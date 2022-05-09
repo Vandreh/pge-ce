@@ -112,8 +112,8 @@
                 $('#tableGeral').DataTable({
                     "language":{
                         "sEmptyTable": "Ningun registro encontrado",
-                        "sInfo": "Mostrando de _START_ hasta _END_ de _TOTAL_ registros",
-                        "sInfoEmpty": "Mostrando 0 hasta 0 de 0 registros",
+                        "sInfo": "Mostrando de _START_ até _END_ de _TOTAL_ registros",
+                        "sInfoEmpty": "Mostrando 0 até 0 de 0 registros",
                         "sInfoFiltered": "(Total de _MAX_ registros)",
                         "sInfoPostFix": "",
                         "sInfoThousands": ".",
@@ -146,8 +146,8 @@
                     "paging": false,
                     "language":{
                         "sEmptyTable": "Ningun registro encontrado",
-                        "sInfo": "Mostrando de _START_ hasta _END_ de _TOTAL_ registros",
-                        "sInfoEmpty": "Mostrando 0 hasta 0 de 0 registros",
+                        "sInfo": "Mostrando de _START_ até _END_ de _TOTAL_ registros",
+                        "sInfoEmpty": "Mostrando 0 até 0 de 0 registros",
                         "sInfoFiltered": "(Total de _MAX_ registros)",
                         "sInfoPostFix": "",
                         "sInfoThousands": ".",

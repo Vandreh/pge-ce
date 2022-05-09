@@ -14,8 +14,8 @@
 		</div>
 		
 		<div class="col-md-4">
-			<label> Nascimiento: </label><br>
-			<input type="date" name="cliente_birth" placeholder="Digite nacimiento" required class="form-control">
+			<label> Nascimento: </label><br>
+			<input type="date" name="cliente_birth" placeholder="Digite nascimento" required class="form-control">
 			<br><br>
 		</div>
 		

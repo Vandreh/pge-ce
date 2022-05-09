@@ -100,7 +100,7 @@
 
       <div class="sidenav d-none d-sm-block">
          <div class="login-main-text">
-            <h2>Benvendo(a) a<br>PGE APP</h2>
+            <h2>Bem-vindo(a) a<br>PGE APP</h2>
             <p>O sistema para administrar compras </p>
          </div>
       </div>

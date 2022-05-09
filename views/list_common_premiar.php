@@ -16,7 +16,7 @@
 	if($total == false){
 		echo '<button class="btn btn-warning">';
 			 echo ' <i class="fa fa-thumbs-down"></i>';
-			 echo ' No existen resultados';
+			 echo ' Não existem resultados';
 		echo '</button><br><br>';
 		#se existir conteúdo, ele cria a tabela
 	}else{
